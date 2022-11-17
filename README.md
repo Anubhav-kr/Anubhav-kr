@@ -1,6 +1,8 @@
+<img align="center" alt="Coding" width="1000" height="500" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif">
 <h1 align="center">Hi 👋, I'm Anubhav Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif">
+<!--img align="right" alt="Coding" width="400" height="200" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/a26e46eb4800c8991e14a6f6e32dba1e.gif"-->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-kr&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-kr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
